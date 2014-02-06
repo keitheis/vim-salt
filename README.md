@@ -1,7 +1,7 @@
 vim-salt
 ========
 
-Lean salt Vim plugin.
+Lean Vim plugin for SaltStack states file type.
 
 Clean up [saltstack/salt-vim](https://github.com/saltstack/salt-vim) by:
 
